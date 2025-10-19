@@ -117,6 +117,6 @@ You’re welcome to explore and learn from the code, but please refrain from dir
 * **Email:** [yishugoyalbth@gmail.com](mailto:yishugoyalbth@gmail.com)
 
 ---
-```
+
 > *Designed & Developed with ❤️ by **Yishu Goyal***
 
