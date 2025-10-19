@@ -60,4 +60,4 @@ This project is optimized for deployment on Vercel or Netlify.
 
 ## License
 
-© 2025 Yuvi Goyal. All rights reserved.
+© 2025 Yishu Goyal. All rights reserved.
