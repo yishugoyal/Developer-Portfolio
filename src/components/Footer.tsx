@@ -67,8 +67,7 @@ const Footer = () => {
 
         <div className="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-gray-400 text-sm text-center md:text-left">
-            © 2025 Yishu Goyal. All rights reserved. Built with{' '}
-            <Heart className="w-4 h-4 inline text-red-500 animate-pulse" /> and React
+            © 2025 Yishu Goyal. All rights reserved.
           </p>
           <a
             href="https://github.com/yishugoyal/Developer-Portfolio"
