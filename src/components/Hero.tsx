@@ -59,7 +59,7 @@ const Hero = () => {
             transition={{ delay: 0.6 }}
             className="text-5xl sm:text-7xl font-bold text-white mb-6"
           >
-            Yuvi Goyal
+            Yishu Goyal
           </motion.h1>
 
           <motion.div
