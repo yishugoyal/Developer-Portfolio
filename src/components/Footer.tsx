@@ -57,8 +57,8 @@ const Footer = () => {
 
           <div>
             <h4 className="text-lg font-semibold text-white mb-4">Get In Touch</h4>
-            <p className="text-gray-400 mb-2">yuvi.goyal@example.com</p>
-            <p className="text-gray-400 mb-4">+91 12345 67890</p>
+            <p className="text-gray-400 mb-2">yishugoyalbth@gmail.com</p>
+            <p className="text-gray-400 mb-4">+91 62837 48686</p>
             <p className="text-sm text-gray-500">
               Open for internships, freelance work, and exciting collaborations.
             </p>
@@ -67,11 +67,11 @@ const Footer = () => {
 
         <div className="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-gray-400 text-sm text-center md:text-left">
-            © 2025 Yuvi Goyal. All rights reserved. Built with{' '}
+            © 2025 Yishu Goyal. All rights reserved. Built with{' '}
             <Heart className="w-4 h-4 inline text-red-500 animate-pulse" /> and React
           </p>
           <a
-            href="https://github.com/yuvigoyal/portfolio"
+            href="https://github.com/yuvigoyal/Developer-Portfolio"
             target="_blank"
             rel="noopener noreferrer"
             className="text-sm text-gray-400 hover:text-primary-400 transition-colors"
