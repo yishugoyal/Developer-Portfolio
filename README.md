@@ -1,4 +1,4 @@
-# Yuvi Goyal - Developer Portfolio
+# Yishu Goyal - Developer Portfolio
 
 A modern, responsive developer portfolio built with React, TypeScript, Tailwind CSS, and Framer Motion.
 
