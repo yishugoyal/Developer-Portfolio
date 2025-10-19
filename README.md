@@ -49,7 +49,7 @@ Built with **React + TypeScript + Tailwind CSS + Framer Motion**, it represents 
 
 Clone the repository:
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/portfolio.git
+git clone https://github.com/yishugoyal/Developer-Portfolio.git
 cd portfolio
 ````
 
@@ -117,7 +117,6 @@ You’re welcome to explore and learn from the code, but please refrain from dir
 * **Email:** [yishugoyalbth@gmail.com](mailto:yishugoyalbth@gmail.com)
 
 ---
-
+```
 > *Designed & Developed with ❤️ by **Yishu Goyal***
 
-```
