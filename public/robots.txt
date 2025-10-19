@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cgc-api-4kan-git-master-renuhackers-projects.vercel.app/sitemap.xml
+Sitemap: https://yishu-portfolio.vercel.app/sitemap.xml
