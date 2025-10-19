@@ -71,7 +71,7 @@ const Footer = () => {
             <Heart className="w-4 h-4 inline text-red-500 animate-pulse" /> and React
           </p>
           <a
-            href="https://github.com/yuvigoyal/Developer-Portfolio"
+            href="https://github.com/yishugoyal/Developer-Portfolio"
             target="_blank"
             rel="noopener noreferrer"
             className="text-sm text-gray-400 hover:text-primary-400 transition-colors"
