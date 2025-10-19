@@ -50,7 +50,7 @@ Built with **React + TypeScript + Tailwind CSS + Framer Motion**, it represents 
 Clone the repository:
 ```bash
 git clone https://github.com/yishugoyal/Developer-Portfolio.git
-cd portfolio
+cd Developer-Portfolio
 ````
 
 Install dependencies:
