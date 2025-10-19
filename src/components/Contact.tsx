@@ -18,25 +18,19 @@ const Contact = () => {
     {
       name: 'GitHub',
       icon: Github,
-      url: 'https://github.com/yuvigoyal',
+      url: 'https://github.com/yishugoyal',
       color: 'hover:text-gray-900 dark:hover:text-gray-100',
     },
     {
       name: 'LinkedIn',
       icon: Linkedin,
-      url: 'https://linkedin.com/in/yuvigoyal',
+      url: 'https://www.linkedin.com/in/yishugoyal/',
       color: 'hover:text-blue-600',
-    },
-    {
-      name: 'Twitter',
-      icon: Twitter,
-      url: 'https://twitter.com/yuvigoyal',
-      color: 'hover:text-blue-400',
     },
     {
       name: 'Email',
       icon: Mail,
-      url: 'mailto:yuvi.goyal@example.com',
+      url: 'mailto:yishugoyalbth@gmail.com',
       color: 'hover:text-red-500',
     },
   ];
@@ -208,7 +202,7 @@ const Contact = () => {
                       href="mailto:yuvi.goyal@example.com"
                       className="text-gray-600 dark:text-gray-400 hover:text-primary-500 transition-colors"
                     >
-                      yuvi.goyal@example.com
+                      yishu.goyal@example.com
                     </a>
                   </div>
                 </div>
@@ -220,10 +214,10 @@ const Contact = () => {
                   <div>
                     <h4 className="font-semibold text-gray-900 dark:text-white mb-1">Phone</h4>
                     <a
-                      href="tel:+1234567890"
+                      href="tel:+916283748686"
                       className="text-gray-600 dark:text-gray-400 hover:text-primary-500 transition-colors"
                     >
-                      +91 12345 67890
+                      +91 6283748686
                     </a>
                   </div>
                 </div>
