@@ -41,11 +41,13 @@ const Hero = () => {
               
               <div className="flex flex-col items-center">
   
-                <img
-  src="https://i.postimg.cc/wTc7qBVW/IMG-Yishu-Square-removebg-preview.png"
-  alt="Yishu Goyal"
-  className="w-full h-full object-contain rounded-full"
-/>
+                <div className="w-full h-full rounded-full bg-white dark:bg-gray-800 flex items-center justify-center">
+  <img
+    src="https://i.postimg.cc/wTc7qBVW/IMG-Yishu-Square-removebg-preview.png"
+    alt="Yishu Goyal"
+    className="w-12 h-12 object-cover rounded-full"
+  />
+</div>
 
           
 
