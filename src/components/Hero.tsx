@@ -38,7 +38,7 @@ const Hero = () => {
               transition={{ delay: 0.2, type: 'spring', stiffness: 200 }}
               className="w-40 h-40 mx-auto mb-8 rounded-full bg-gradient-to-br from-accent-cyan to-accent-purple p-1"
             >
-              //
+              
               <div className="flex flex-col items-center">
   <img
     src="https://i.postimg.cc/KvCtMCbb/IMG-Yishu-removebg-preview.png"
@@ -49,7 +49,7 @@ const Hero = () => {
   <p className="text-lg text-indigo-200">Web Developer | AI Enthusiast</p>
 </div>
 
-              //
+          
 
 
             </motion.div>
