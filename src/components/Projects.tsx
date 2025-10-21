@@ -42,39 +42,6 @@ const Projects = () => {
       demo: 'https://portfolio-demo.com',
       gradient: 'from-green-500 to-teal-500',
     },
-    {
-      title: 'College Management System',
-      description:
-        'Comprehensive web application for managing student records, attendance, grades, and administrative tasks.',
-      fullDescription:
-        'A complete solution for educational institutions featuring role-based access control, real-time notifications, grade management, attendance tracking, and parent-teacher communication portal.',
-      tech: ['PHP', 'MySQL', 'JavaScript', 'Bootstrap', 'jQuery'],
-      github: 'https://github.com',
-      demo: 'https://cms-demo.com',
-      gradient: 'from-orange-500 to-red-500',
-    },
-    {
-      title: 'E-Commerce Platform',
-      description:
-        'Full-stack e-commerce solution with payment integration, inventory management, and admin dashboard.',
-      fullDescription:
-        'A scalable e-commerce platform with features like product catalog, shopping cart, secure payment processing, order tracking, and comprehensive admin panel for inventory and order management.',
-      tech: ['React', 'Node.js', 'Express', 'MongoDB', 'Stripe'],
-      github: 'https://github.com',
-      demo: 'https://ecommerce-demo.com',
-      gradient: 'from-indigo-500 to-blue-500',
-    },
-    {
-      title: 'Weather Forecast App',
-      description:
-        'Real-time weather application with location-based forecasting, interactive maps, and weather alerts.',
-      fullDescription:
-        'A beautiful weather application that provides current conditions, hourly and weekly forecasts, radar maps, and severe weather alerts. Features include location search, geolocation support, and favorite locations.',
-      tech: ['React', 'OpenWeather API', 'Mapbox', 'Chart.js'],
-      github: 'https://github.com',
-      demo: 'https://weather-demo.com',
-      gradient: 'from-yellow-500 to-orange-500',
-    },
   ];
 
   return (
