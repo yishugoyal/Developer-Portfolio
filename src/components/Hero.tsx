@@ -38,22 +38,9 @@ const Hero = () => {
               transition={{ delay: 0.2, type: 'spring', stiffness: 200 }}
               className="w-40 h-40 mx-auto mb-8 rounded-full bg-gradient-to-br from-accent-cyan to-accent-purple p-1"
             >
-              
-              <div className="flex flex-col items-center">
-  
-                <div className="w-full h-full rounded-full bg-white dark:bg-gray-800 flex items-center justify-center">
-  <img
-    src="https://i.postimg.cc/wTc7qBVW/IMG-Yishu-Square-removebg-preview.png"
-    alt="Yishu Goyal"
-    className="w-12 h-12 object-cover rounded-full"
-  />
-</div>
-
-          
-
-          
-
-
+              <div className="w-full h-full rounded-full bg-white dark:bg-gray-800 flex items-center justify-center text-6xl font-bold text-gradient">
+                YG
+              </div>
             </motion.div>
           </div>
 
