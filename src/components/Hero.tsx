@@ -40,12 +40,13 @@ const Hero = () => {
             >
               
               <div className="flex flex-col items-center">
-  <img
-    src="https://i.postimg.cc/wTc7qBVW/IMG-Yishu-Square-removebg-preview.png"
-    alt="Yishu Goyal"
-    className="w-32 h-32 rounded-full object-cover shadow-lg ring-4 ring-indigo-400 mb-4"
-  />
- </div>
+  
+                <img
+  src="https://i.postimg.cc/wTc7qBVW/IMG-Yishu-Square-removebg-preview.png"
+  alt="Yishu Goyal"
+  className="w-full h-full object-contain rounded-full"
+/>
+
           
 
           
