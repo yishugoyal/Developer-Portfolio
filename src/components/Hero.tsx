@@ -32,21 +32,28 @@ const Hero = () => {
           transition={{ duration: 0.8 }}
         >
           <div className="mb-8">
-            <motion.div
-              initial={{ scale: 0 }}
-              animate={{ scale: 1 }}
-              transition={{ delay: 0.2, type: 'spring', stiffness: 200 }}
-              className="w-40 h-40 mx-auto mb-8 rounded-full bg-gradient-to-br from-accent-cyan to-accent-purple p-1"
-            >
-              <div className="w-full h-full rounded-full bg-white dark:bg-gray-800 flex items-center justify-center text-6xl font-bold text-gradient">
-                <img
-      src="https://i.postimg.cc/wTc7qBVW/IMG-Yishu-Square-removebg-preview.png"
-      alt="Yishu Goyal"
-      className="w-full h-full object-cover rounded-full"
-    />
-              </div>
-            </motion.div>
-          </div>
+  <motion.div
+    initial={{ scale: 0 }}
+    animate={{ scale: 1 }}
+    transition={{ delay: 0.2, type: 'spring', stiffness: 200 }}
+    className="w-44 h-44 mx-auto mb-8 rounded-full p-[3px] 
+               bg-gradient-to-br from-teal-400 via-purple-500 to-indigo-500
+               shadow-[0_0_25px_rgba(100,100,255,0.4)] hover:shadow-[0_0_35px_rgba(150,150,255,0.6)] 
+               transition-shadow duration-500"
+  >
+    <div className="w-full h-full rounded-full overflow-hidden 
+                    bg-gradient-to-br from-sky-100 via-indigo-100 to-purple-100 
+                    dark:from-gray-800 dark:via-gray-700 dark:to-gray-900 
+                    flex items-center justify-center">
+      <img
+        src="https://i.postimg.cc/wTc7qBVW/IMG-Yishu-Square-removebg-preview.png"
+        alt="Yishu Goyal"
+        className="w-full h-full object-cover rounded-full shadow-lg"
+      />
+    </div>
+  </motion.div>
+</div>
+
 
 
           <motion.h2
