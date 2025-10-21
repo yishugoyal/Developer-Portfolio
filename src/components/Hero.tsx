@@ -41,13 +41,12 @@ const Hero = () => {
               
               <div className="flex flex-col items-center">
   <img
-    src="https://i.postimg.cc/KvCtMCbb/IMG-Yishu-removebg-preview.png"
+    src="https://i.postimg.cc/wTc7qBVW/IMG-Yishu-Square-removebg-preview.png"
     alt="Yishu Goyal"
     className="w-32 h-32 rounded-full object-cover shadow-lg ring-4 ring-indigo-400 mb-4"
   />
-  <h1 className="text-3xl font-bold text-white">Yishu Goyal</h1>
-  <p className="text-lg text-indigo-200">Web Developer | AI Enthusiast</p>
-</div>
+ </div>
+          
 
           
 
